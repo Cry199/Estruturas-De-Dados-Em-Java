@@ -1,4 +1,7 @@
 # Estruturas-De-Dados-Em-Java
+## Créditos
+Criado por [Cry199](https://github.com/Cry199) como material de estudo.
+
 
 ## GameEntry
 
@@ -11,4 +14,3 @@ https://github.com/Cry199/Estruturas-De-Dados-Em-Java/tree/main/src/Arranjos/Gam
 - GameEntryMain.java:
   Classe com método main que cria uma interface para inserir, remover e listar pontuações usando as outras duas classes.
 
-##
