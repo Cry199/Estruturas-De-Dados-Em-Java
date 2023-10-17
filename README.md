@@ -1,7 +1,5 @@
-# Estruturas-De-Dados-Em-Java
 ## Créditos
 Criado por [Cry199](https://github.com/Cry199) como material de estudo.
-
 
 ## GameEntry
 
